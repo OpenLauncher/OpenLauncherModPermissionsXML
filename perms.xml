@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2014-11-22T13:17:33Z</Created>
+  <LastSaved>2014-11-22T15:39:50Z</LastSaved>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7520</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>320</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#0000D4"
+    ss:Underline="Single"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="46" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:Width="136"/>
+   <Column ss:Width="128"/>
+   <Column ss:Width="71"/>
+   <Column ss:Width="726"/>
+   <Column ss:AutoFitWidth="0" ss:Width="191"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Advanced Sola Panels</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://forum.industrial-craft.net/index.php?page=User&amp;userID=1347&amp;s=122c184c8c3ce453dff4b56245148c75bc4da3b0"
+     x:HRefScreenTip="Open user profile from &quot;SeNtiMeL&quot;"><Data
+      ss:Type="String">SeNtiMeL</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=3291</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AE2 Tech Addon</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.curse.com/users/fireball1725"><Data
+      ss:Type="String">fireball1725</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/221903-ae2-tech-add-on</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AOBD 2</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/ganymedes01"><Data
+      ss:Type="String">ganymedes01</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Apple Core</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/squeek502"><Data
+      ss:Type="String">squeek502</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Aroma1997Core</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AromaBackup</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ars Magica 2</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Mithion"><Data
+      ss:Type="String">Mithion</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-005-updated-september</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Baubles</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Azanor"><Data
+      ss:Type="String">Azanor</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-8-updated-11-9-2014</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BetterChests</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BetterStorage</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/copygirl"><Data
+      ss:Type="String">copygirl</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380-betterstorage-0-10-5-119-wip</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Bibliocraft</Data></Cell>
+    <Cell><Data ss:Type="String">Nuchaz</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.bibliocraftmod.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Reactors</Data></Cell>
+    <Cell><Data ss:Type="String">ErogenousBeef</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.big-reactors.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Biomes 0 Plenty</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Glitchfiend"><Data
+      ss:Type="String">Glitchfiend</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Blood Magic</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/WayofTime"><Data
+      ss:Type="String">WayofTime</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-1-updated-nov-20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Blood Utils</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.curse.com/users/wasliebob"><Data
+      ss:Type="String">wasliebob</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/224425-blood-utils</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Blue Power</Data></Cell>
+    <Cell><Data ss:Type="String">Quetzi</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/mc-mods/223099-blue-power</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Botania</Data></Cell>
+    <Cell><Data ss:Type="String">vazkii</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://vazkii.us/mod/Botania/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Carpenters Blocks</Data></Cell>
+    <Cell><Data ss:Type="String">Mineshopper</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.carpentersblocks.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ChickenChunks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Chisel</Data></Cell>
+    <Cell><Data ss:Type="String">AUTOMATIC_MAIDEN</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288400-chisel</Data></Cell>
+    <Cell><Data ss:Type="String">Including the multible takeovers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CodeChickenCore</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CoFH Core&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CoFHLib&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">KingLemming</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CompactWindmills</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Computer Craft</Data></Cell>
+    <Cell><Data ss:Type="String">dan200</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.computercraft.info/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DecoCraft</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/RazzleberryFox"><Data
+      ss:Type="String">RazzleberryFox</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-decocraft-decorations-and-props-for-minecraft-v1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ender-IO</Data></Cell>
+    <Cell><Data ss:Type="String">CrazyPants</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://enderio.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EnderStorage</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EnderTech</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.curse.com/users/Drayshak"><Data
+      ss:Type="String">Drayshak</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/223428-endertech</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Enhanced Portals</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/KzariusRex"><Data
+      ss:Type="String">KzariusRex</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178842-enhanced-portals-3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EnviroMine</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/TimbuckTato"><Data
+      ss:Type="String">TimbuckTato</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048-enviromine-a-little-bit-of-realism-1-7-10-new#entry27024280</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Equivalent Exchange 3</Data></Cell>
+    <Cell><Data ss:Type="String">Pahimar</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">https://github.com/pahimar/Equivalent-Exchange-3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ex Nihilo&#160;</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Erasmus_Crowley"><Data
+      ss:Type="String">Erasmus_Crowley</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ForgeMultipart</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mine &amp; Blade Battlegear 2</Data></Cell>
+    <Cell><Data ss:Type="String">GotoLink</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291267-mine-blade-battlegear-2-bullseye-1-0-6-1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Minefactory Reloaded&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">skyboy026</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mining World Mod</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NetherOres</Data></Cell>
+    <Cell><Data ss:Type="String">skyboy026</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">NotEnoughItems</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Portable Recharger</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
+      ss:Type="String">Aroma1997</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Redstone Arsenal</Data></Cell>
+    <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Technomancy</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Theflogat"><Data
+      ss:Type="String">Theflogat</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-0-8-2-technomancy-an-expanded-bridge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thermal Expansion</Data></Cell>
+    <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thermal Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Translocator</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WR-CBE</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
+      ss:Type="String">chicken_bones</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
