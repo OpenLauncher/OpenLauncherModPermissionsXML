@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Created>2014-11-22T13:17:33Z</Created>
-  <LastSaved>2014-11-22T15:39:50Z</LastSaved>
+  <LastSaved>2014-11-22T16:53:33Z</LastSaved>
   <Version>14.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -14,10 +14,10 @@
   <RemovePersonalInformation/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>7520</WindowHeight>
+  <WindowHeight>12680</WindowHeight>
   <WindowWidth>25600</WindowWidth>
   <WindowTopX>0</WindowTopX>
-  <WindowTopY>320</WindowTopY>
+  <WindowTopY>-460</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -34,15 +34,33 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#0000D4"
     ss:Underline="Single"/>
   </Style>
+  <Style ss:ID="s79">
+   <Font ss:FontName="Calibri" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Interior ss:Color="#DD0806" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Interior/>
+  </Style>
+  <Style ss:ID="s84">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="46" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="91" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
    <Column ss:Width="136"/>
    <Column ss:Width="128"/>
    <Column ss:Width="71"/>
    <Column ss:Width="726"/>
    <Column ss:AutoFitWidth="0" ss:Width="191"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Admin Commands Toolbox</Data></Cell>
+    <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
+   </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Advanced Sola Panels</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://forum.industrial-craft.net/index.php?page=User&amp;userID=1347&amp;s=122c184c8c3ce453dff4b56245148c75bc4da3b0"
@@ -92,6 +110,18 @@
       ss:Type="String">Mithion</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-005-updated-september</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Attachable Grinder</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Back Tools</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Baubles</Data></Cell>
@@ -158,6 +188,7 @@
     <Cell><Data ss:Type="String">vazkii</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://vazkii.us/mod/Botania/</Data></Cell>
+    <Cell><Data ss:Type="String">Including the multible takeovers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Carpenters Blocks</Data></Cell>
@@ -177,7 +208,6 @@
     <Cell><Data ss:Type="String">AUTOMATIC_MAIDEN</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288400-chisel</Data></Cell>
-    <Cell><Data ss:Type="String">Including the multible takeovers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CodeChickenCore</Data></Cell>
@@ -210,6 +240,12 @@
     <Cell><Data ss:Type="String">dan200</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.computercraft.info/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Death Counter</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DecoCraft</Data></Cell>
@@ -266,11 +302,155 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Factorization</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/neptunepink"><Data
+      ss:Type="String">neptunepink</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FinndusFillies</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://wiki.feed-the-beast.com/User:Myrathi"><Data
+      ss:Type="String">myrathi</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">FlatSigns</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://wiki.feed-the-beast.com/User:Myrathi"><Data
+      ss:Type="String">myrathi</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Forbidden Magic</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/SpitefulFox"><Data
+      ss:Type="String">SpitefulFox</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-54-prerelease</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ForgeMultipart</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
       ss:Type="String">chicken_bones</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Framez</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.curse.com/users/amadornes"><Data
+      ss:Type="String">amadornes</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/framez</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Gany's End</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/ganymedes01"><Data
+      ss:Type="String">ganymedes01</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291092-ganys-end-miscellaneous-ender-themed-additions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Gravestone mod</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/NightKosh"><Data
+      ss:Type="String">NightKosh</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-10-2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Gravitation Suite</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://forum.industrial-craft.net/index.php?page=User&amp;userID=1347&amp;s=9d6e98226b7d8b60fc1b432438cbfc4d3d21b6bb"
+     x:HRefScreenTip="Open user profile from &quot;SeNtiMeL&quot;"><Data
+      ss:Type="String">SeNtiMeL</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GravityGun</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Hat Stand</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Hats</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Hunger Overhaul</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/iguana_man"><Data
+      ss:Type="String">iguana_man</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289305-1-6-x-hunger-overhaul</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">iChunUtil</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Iguana Tweaks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/iguana_man"><Data
+      ss:Type="String">iguana_man</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291394-1-6-x-iguana-tweaks-for-tinkers-construct</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">InfiniBows</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://wiki.feed-the-beast.com/User:Myrathi"><Data
+      ss:Type="String">myrathi</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Interdimensional Gates</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inventory Tweaks</Data></Cell>
+    <Cell><Data ss:Type="String">Kobata</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">https://inventory-tweaks.readthedocs.org/en/latest/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">It Fell From The Sky</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Jabba</Data></Cell>
+    <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Journeymap</Data></Cell>
+    <Cell><Data ss:Type="String">JourneyMapMod</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">http://journeymap.techbrew.net/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mantle</Data></Cell>
+    <Cell><Data ss:Type="String">mDiyo</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/mantle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">mekanism</Data></Cell>
+    <Cell><Data ss:Type="String">aidancbrady</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://aidancbrady.com/mekanism/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Mine &amp; Blade Battlegear 2</Data></Cell>
@@ -285,11 +465,42 @@
     <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MineTweaker</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/StanH"><Data
+      ss:Type="String">StanH</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Mining World Mod</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
       ss:Type="String">Aroma1997</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mob Amputation</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mob Dismemberment</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MobiusCore</Data></Cell>
+    <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Morph</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NetherOres</Data></Cell>
@@ -305,6 +516,45 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Nuclear Control 2</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://forum.industrial-craft.net/index.php?page=User&amp;userID=15205"
+     x:HRefScreenTip="Open user profile from &quot;xbony2&quot;"><Data
+      ss:Type="String">&#160;xbony2</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ObsidiPlates</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://wiki.feed-the-beast.com/User:Myrathi"><Data
+      ss:Type="String">myrathi</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Opis</Data></Cell>
+    <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Photoreal</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Picture-in-Picture (PiP)</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pig Grinder</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Portable Recharger</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Aroma1997"><Data
       ss:Type="String">Aroma1997</Data></Cell>
@@ -312,10 +562,40 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Portal Gun</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Redstone Arsenal</Data></Cell>
     <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Shatter</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Slender – Reimagined</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Streak</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sync</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Technomancy</Data></Cell>
@@ -337,11 +617,29 @@
     <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Torched</Data></Cell>
+    <Cell><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Trail Mix</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">iChun</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Y</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Translocator</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
       ss:Type="String">chicken_bones</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Waila</Data></Cell>
+    <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WR-CBE</Data></Cell>
@@ -361,10 +659,11 @@
    </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
+   <TopRowVisible>53</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>1</ActiveRow>
+     <ActiveRow>2</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
