@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Created>2014-11-22T13:17:33Z</Created>
-  <LastSaved>2014-11-29T08:58:16Z</LastSaved>
+  <LastSaved>2014-11-29T16:30:45Z</LastSaved>
   <Version>14.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -48,11 +48,11 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="122" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="148" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
-   <Column ss:Width="136"/>
-   <Column ss:Width="128"/>
-   <Column ss:Width="71"/>
+   <Column ss:Width="166"/>
+   <Column ss:Width="115"/>
+   <Column ss:Width="15"/>
    <Column ss:Width="774"/>
    <Column ss:AutoFitWidth="0" ss:Width="191"/>
    <Row ss:AutoFitHeight="0">
@@ -242,6 +242,20 @@
     <Cell><Data ss:Type="String">http://www.computercraft.info/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Custom Chest Loot</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Deadly World</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Death Counter</Data></Cell>
     <Cell><Data ss:Type="String">iChun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
@@ -253,6 +267,13 @@
       ss:Type="String">RazzleberryFox</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-decocraft-decorations-and-props-for-minecraft-v1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dungeon Crawler</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Ender-IO</Data></Cell>
@@ -441,6 +462,27 @@
     <Cell><Data ss:Type="String">http://journeymap.techbrew.net/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Lava Monsters</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Loot Mod</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Lost Books</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Mantle</Data></Cell>
     <Cell><Data ss:Type="String">mDiyo</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
@@ -511,6 +553,13 @@
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mob Properties</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MobiusCore</Data></Cell>
     <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
@@ -553,6 +602,13 @@
     <Cell><Data ss:Type="String">MrTJP</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://projectredwiki.com/wiki/Main_Page</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Natural Absorption</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NetherOres</Data></Cell>
@@ -678,6 +734,13 @@
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Player Heads</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PneumaticCraft&#160;</Data></Cell>
     <Cell><Data ss:Type="String">MineMaarten</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
@@ -782,11 +845,37 @@
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Solar Flux</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Nauktis"><Data
+      ss:Type="String">Nauktis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2187592-solar-flux-a-k-a-compactsolars-for-redstone-flux</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Soul Shards: Reborn</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Moze_Intel"><Data
       ss:Type="String">Moze_Intel</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445947-1-7-10-soul-shards-reborn-original-soul-shards</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Special Mobs</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Steve's carts</Data></Cell>
+    <Cell><Data ss:Type="String">vswe</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://stevescarts.wikia.com/wiki/Steve%27s_Carts_Wiki</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Steve's Factory Manager</Data></Cell>
+    <Cell><Data ss:Type="String">vswe</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://stevescarts.wikia.com/wiki/Steve%27s_Carts_Wiki</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Streak</Data></Cell>
@@ -808,6 +897,41 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-0-8-2-technomancy-an-expanded-bridge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thaumcraft</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Azanor"><Data
+      ss:Type="String">Azanor</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thaumcraft Mob Aspects</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Parker8283"><Data
+      ss:Type="String">Parker8283</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076360-1-7-x-thaumcraft-addon-thaumcraft-mob-aspects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thaumic Exploration</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Flaxbeard"><Data
+      ss:Type="String">Flaxbeard</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thaumic Tinkerer</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/pixlepix"><Data
+      ss:Type="String">pixlepix</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">The Spice of Life</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/squeek502"><Data
+      ss:Type="String">squeek502</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Thermal Expansion</Data></Cell>
     <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
@@ -818,6 +942,41 @@
     <Cell><Data ss:Type="String">Team Cofh</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TiC Tooltips</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/squeek502"><Data
+      ss:Type="String">squeek502</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Tinkers construct</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/mDiyo"><Data
+      ss:Type="String">boni</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Tinkers' Mechworks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Glassmaker"><Data
+      ss:Type="String">Glassmaker</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Tinkers' Steelworks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Toops"><Data
+      ss:Type="String">Toops</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445710-1-6-4-tinkers-steelworks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Torch Levers</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/HitchH1k3r"><Data
+      ss:Type="String">HitchH1k3r</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288257-1-7-10-forge-torch-levers-and-more-version-1-4-1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Torched</Data></Cell>
@@ -837,6 +996,27 @@
       ss:Type="String">chicken_bones</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">UndergroundsBiomesConstructs</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Zeno410"><Data
+      ss:Type="String">Zeno410</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293503-underground-biomes-constructs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Utility Mobs</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
+      ss:Type="String">FatherToast</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Vein Miner</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/portablejim"><Data
+      ss:Type="String">portablejim</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner-quickly-mine-veins-of-ore</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Waila</Data></Cell>
@@ -862,11 +1042,11 @@
    </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
-   <TopRowVisible>116</TopRowVisible>
+   <TopRowVisible>140</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>4</ActiveRow>
+     <ActiveRow>151</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
