@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Created>2014-11-22T13:17:33Z</Created>
-  <LastSaved>2014-11-29T17:28:03Z</LastSaved>
+  <LastSaved>2014-11-29T18:53:59Z</LastSaved>
   <Version>14.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -46,9 +46,12 @@
   <Style ss:ID="s68">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
   </Style>
+  <Style ss:ID="s97">
+   <Interior ss:Color="#FCF305" ss:Pattern="Solid"/>
+  </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="164" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="182" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
    <Column ss:Width="166"/>
    <Column ss:Width="115"/>
@@ -135,6 +138,13 @@
     <Cell><Data ss:Type="String">iChun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AutoFood</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Back Tools</Data></Cell>
@@ -312,6 +322,13 @@
     <Cell><Data ss:Type="String">RWTema</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/224942-dense-ores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dimensional Anchors</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DirectionHUD</Data></Cell>
@@ -502,6 +519,12 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289305-1-6-x-hunger-overhaul</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">IC2</Data></Cell>
+    <Cell><Data ss:Type="String">Player</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.industrial-craft.net/index.php?page=Index</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">iChunUtil</Data></Cell>
     <Cell><Data ss:Type="String">iChun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
@@ -515,11 +538,32 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291394-1-6-x-iguana-tweaks-for-tinkers-construct</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Immibis Core</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Immibis's Microblocks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">InfiniBows</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://wiki.feed-the-beast.com/User:Myrathi"><Data
       ss:Type="String">myrathi</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">InfiniTubes</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Interdimensional Gates</Data></Cell>
@@ -559,6 +603,13 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Liquid XP</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Loot Mod</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
       ss:Type="String">FatherToast</Data></Cell>
@@ -573,6 +624,13 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Magical Crops</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Mark719"><Data
+      ss:Type="String">Mark719</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Mantle</Data></Cell>
     <Cell><Data ss:Type="String">mDiyo</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
@@ -583,6 +641,12 @@
     <Cell><Data ss:Type="String">aidancbrady</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://aidancbrady.com/mekanism/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">mffs</Data></Cell>
+    <Cell><Data ss:Type="String">Calclavia</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://calclavia.com/mffs/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Mine &amp; Blade Battlegear 2</Data></Cell>
@@ -694,6 +758,19 @@
     <Cell><Data ss:Type="String">http://projectredwiki.com/wiki/Main_Page</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Mystcraft</Data></Cell>
+    <Cell><Data ss:Type="String">xcompwiz</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell><Data ss:Type="String">http://binarymage.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Natura</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/progwml6"><Data
+      ss:Type="String">progwml6</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Natural Absorption</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
       ss:Type="String">FatherToast</Data></Cell>
@@ -701,10 +778,22 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Nei Addons</Data></Cell>
+    <Cell><Data ss:Type="String">bdew</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://bdew.net/neiaddons/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NetherOres</Data></Cell>
     <Cell><Data ss:Type="String">skyboy026</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://teamcofh.com/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Network</Data></Cell>
+    <Cell><Data ss:Type="String">modmuss50</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://modmuss50.me/"><Data ss:Type="String">http://modmuss50.me/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Not Enough Keys</Data></Cell>
@@ -1007,6 +1096,13 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076360-1-7-x-thaumcraft-addon-thaumcraft-mob-aspects</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thaumic Energistics</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Nividica"><Data
+      ss:Type="String">Nividica</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Thaumic Exploration</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Flaxbeard"><Data
       ss:Type="String">Flaxbeard</Data></Cell>
@@ -1026,6 +1122,13 @@
       ss:Type="String">squeek502</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">The Twilight Forest</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Benimatic"><Data
+      ss:Type="String">Benimatic</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-2-snow-queen-troll</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Thermal Expansion</Data></Cell>
@@ -1094,6 +1197,13 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TubeStuff</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/immibis"><Data
+      ss:Type="String">immibis</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UndergroundsBiomesConstructs</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Zeno410"><Data
       ss:Type="String">Zeno410</Data></Cell>
@@ -1128,11 +1238,25 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Witchery</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Emoniph"><Data
+      ss:Type="String">Emoniph</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">https://sites.google.com/site/witcherymod/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WR-CBE</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
       ss:Type="String">chicken_bones</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Zombie Awareness</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Corosus"><Data
+      ss:Type="String">Corosus</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.coros.us/mods/zombieawareness</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1145,11 +1269,11 @@
    </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
-   <TopRowVisible>151</TopRowVisible>
+   <TopRowVisible>159</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>5</ActiveRow>
+     <ActiveRow>4</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
