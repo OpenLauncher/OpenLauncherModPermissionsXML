@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Created>2014-11-22T13:17:33Z</Created>
-  <LastSaved>2014-11-29T16:30:45Z</LastSaved>
+  <LastSaved>2014-11-29T17:28:03Z</LastSaved>
   <Version>14.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -48,7 +48,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="148" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="164" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
    <Column ss:Width="166"/>
    <Column ss:Width="115"/>
@@ -60,6 +60,12 @@
     <Cell><Data ss:Type="String">ProfMobius</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Advanced Genetics</Data></Cell>
+    <Cell><Data ss:Type="String">Team DNA</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ag.teamdna.de/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Advanced Sola Panels</Data></Cell>
@@ -89,6 +95,19 @@
       ss:Type="String">squeek502</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Applied Energistics</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="https://github.com/AlgorithmX2"><Data
+      ss:Type="String">AlgorithmX2</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://ae2.ae-mod.info/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ArmorStatusHUD</Data></Cell>
+    <Cell><Data ss:Type="String">bspkrs</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Aroma1997Core</Data></Cell>
@@ -122,6 +141,13 @@
     <Cell><Data ss:Type="String">iChun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Backpacks</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/Eydamos"><Data
+      ss:Type="String">Eydamos</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Baubles</Data></Cell>
@@ -189,6 +215,19 @@
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://vazkii.us/mod/Botania/</Data></Cell>
     <Cell><Data ss:Type="String">Including the multible takeovers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bspkrsCore</Data></Cell>
+    <Cell><Data ss:Type="String">bspkrs</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Buildcraft</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.mod-buildcraft.com/author/asiekierka/"
+     x:HRefScreenTip="View all posts by asiekierka"><Data ss:Type="String">asiekierka&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.mod-buildcraft.com/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Carpenters Blocks</Data></Cell>
@@ -269,6 +308,18 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-decocraft-decorations-and-props-for-minecraft-v1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dense Ores</Data></Cell>
+    <Cell><Data ss:Type="String">RWTema</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/224942-dense-ores</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DirectionHUD</Data></Cell>
+    <Cell><Data ss:Type="String">bspkrs</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Dungeon Crawler</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FatherToast"><Data
       ss:Type="String">FatherToast</Data></Cell>
@@ -296,6 +347,14 @@
     <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/223428-endertech</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Enetbridge</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://forum.industrial-craft.net/index.php?page=User&amp;userID=49"
+     x:HRefScreenTip="Open user profile from &quot;Player&quot;"><Data
+      ss:Type="String">Player</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10864</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Enhanced Portals</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/KzariusRex"><Data
       ss:Type="String">KzariusRex</Data></Cell>
@@ -321,6 +380,12 @@
       ss:Type="String">Erasmus_Crowley</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Extra Utilities</Data></Cell>
+    <Cell><Data ss:Type="String">RWTema</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Factorization</Data></Cell>
@@ -351,6 +416,12 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-54-prerelease</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Forestry</Data></Cell>
+    <Cell><Data ss:Type="String">sengir</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://forestry.sengir.net/wiki.new/doku.php</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ForgeMultipart</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
       ss:Type="String">chicken_bones</Data></Cell>
@@ -365,11 +436,23 @@
     <Cell><Data ss:Type="String">http://www.curse.com/mc-mods/minecraft/framez</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Funky Locomotion</Data></Cell>
+    <Cell><Data ss:Type="String">RWTema</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://minecraft.curseforge.com/mc-mods/224190-funky-locomotion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Gany's End</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/ganymedes01"><Data
       ss:Type="String">ganymedes01</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291092-ganys-end-miscellaneous-ender-themed-additions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Gendustry</Data></Cell>
+    <Cell><Data ss:Type="String">bdew</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://bdew.net/gendustry/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Gravestone mod</Data></Cell>
@@ -403,6 +486,13 @@
     <Cell><Data ss:Type="String">iChun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Y</Data></Cell>
     <Cell><Data ss:Type="String">http://ichun.us/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Hopper Ducts</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/FyberOptic"><Data
+      ss:Type="String">FyberOptic</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075-1-5-x-1-6-x-1-7-2-1-7-10-hopper-ducts-mod</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Hunger Overhaul</Data></Cell>
@@ -866,6 +956,12 @@
     <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">StatusEffectHUD</Data></Cell>
+    <Cell><Data ss:Type="String">bspkrs</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Steve's carts</Data></Cell>
     <Cell><Data ss:Type="String">vswe</Data></Cell>
     <Cell><Data ss:Type="String">Y</Data></Cell>
@@ -1025,6 +1121,13 @@
     <Cell><Data ss:Type="String">http://minecraft.curseforge.com/members/ProfMobius/projects</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Waila Harvestability</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/squeek502"><Data
+      ss:Type="String">squeek502</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WR-CBE</Data></Cell>
     <Cell ss:StyleID="s62" ss:HRef="http://www.minecraftforum.net/members/chicken_bones"><Data
       ss:Type="String">chicken_bones</Data></Cell>
@@ -1042,11 +1145,11 @@
    </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
-   <TopRowVisible>140</TopRowVisible>
+   <TopRowVisible>151</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>151</ActiveRow>
+     <ActiveRow>5</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
